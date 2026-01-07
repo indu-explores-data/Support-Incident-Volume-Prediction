@@ -119,11 +119,11 @@ This project focuses on analyzing and forecasting daily support incident volumes
 
 **1. Clone the Repository:**  
    ```
-   git clone https://github.com/indu-explores-data/Support-Incident-Volume-Prediction.git
+   git clone https://github.com/indu-explores-data/Support-Incident-Volume-Forecasting.git
    ```
 **2. Navigate to the Project Directory:**
    ```
-   cd Support-Incident-Volume-Prediction
+   cd Support-Incident-Volume-Forecasting
    ```
 **3. Create and Activate a Virtual Environment (Recommended):**
    ```
@@ -145,12 +145,12 @@ This project focuses on analyzing and forecasting daily support incident volumes
    ```
    jupyter notebook
    ```
-**6. Open `Support-Incident-Volume-Prediction.ipynb` and run all cells to reproduce the analysis.**
+**6. Open `Support-Incident-Volume-Forecasting.ipynb` and run all cells to reproduce the analysis.**
 
 ---
 ## ▶️ Usage / How to Run
 
-- Open **Support-Incident-Volume-Prediction.ipynb** in Jupyter Notebook
+- Open **Support-Incident-Volume-Forecasting.ipynb** in Jupyter Notebook
 - Run all cells sequentially
 - Explore visualizations and model comparisons
 - Final forecasts available in model output cells
