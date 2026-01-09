@@ -131,6 +131,10 @@ This project focuses on analyzing and forecasting daily support incident volumes
 
 *Compares forecasting models based on performance metrics such as MAE.*
 
+### 🔮 Future Incident Volume Forecast
+![Future Predictions](./images/Future%20predictions.png)
+
+*Displays the predicted daily incident volumes for upcoming days based on the final SARIMA model, helping support proactive staffing and capacity planning.*
 
 ---
 
