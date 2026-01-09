@@ -1,28 +1,28 @@
 # 📊 Support Incident Volume Forecasting 🚨
 
 ## 📌 Project Overview
-This project focuses on analyzing and forecasting daily support incident volumes to help operations and support teams plan resources more effectively. Using time series analysis and forecasting techniques, historical incident data was explored to identify trends, seasonality, and patterns. Multiple forecasting models were built and evaluated to determine the best-performing approach.
+This project focuses on analyzing and forecasting daily support incident volumes to help operations and support teams plan resources more effectively. Using time series analysis and forecasting techniques, historical incident data was explored to identify trends, seasonality, and patterns. Multiple forecasting models were built and evaluated to determine the most reliable approach for proactive planning.
 
 ---
 
 ## 🎯 Objectives
-- Analyze historical incident volume trends and seasonality
-- Identify weekly and monthly incident patterns
-- Build and evaluate time series forecasting models
-- Compare model performance using error metrics
-- Provide actionable insights for operational planning
+- Analyze historical incident volume trends and seasonality  
+- Identify weekly and monthly incident patterns  
+- Build and evaluate time series forecasting models  
+- Compare model performance using error metrics  
+- Provide actionable insights for operational planning  
 
 ---
 
 ## 🧠 Key Methods & Analysis
-- Time Series Decomposition (Trend & Seasonality)
-- Rolling Mean & Standard Deviation Analysis
-- Stationarity Check using Differencing
-- ACF & PACF Analysis
-- SARIMA & Holt-Winters Forecasting Models
-- Train–Test Split for Time Series
-- Residual Diagnostics & Model Validation
-- Model Comparison using MAE
+- Time Series Decomposition (Trend & Seasonality)  
+- Rolling Mean & Standard Deviation Analysis  
+- Stationarity Check using Differencing  
+- ACF & PACF Analysis  
+- ARIMA, SARIMA & Holt–Winters Forecasting Models  
+- Train–Test Split for Time Series  
+- Residual Diagnostics & Model Validation  
+- Model Comparison using MAE  
 
 ---
 
